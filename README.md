@@ -1,5 +1,5 @@
 # OpenGL-Graphics
-This is a repository for the Computer Graphics module related projects.
+This is a repository for the personal project, related to Computer Graphics module.
 
 ## Video of the project mid way
 
